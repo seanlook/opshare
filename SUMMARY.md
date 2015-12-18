@@ -4,5 +4,5 @@
 * [Docker](Mesos.md)
 * [MySQL](主从复制/使用 pt-table-checksum 进行数据一致性检查.md)
    * [主从复制](mysql/replication/replication.md)
-       * 使用 pt-table-checksum 进行数据一致性检查
+       * [使用 pt-table-checksum 进行数据一致性检查](mysql/replication/mysql_replication_consistency_check-pt-table-checksum.md)
 
